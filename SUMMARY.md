@@ -3,6 +3,7 @@
 
 * [7月](2019-07/SUMMARY.md)
   * [陈善治](2019-07/csz/HelloWorld.md)
+  * [陈槿](2019-07/cj/news.md)
 
 ### 2020
 
