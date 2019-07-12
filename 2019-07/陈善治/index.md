@@ -1,6 +1,6 @@
 # Action<T> 与 Func<T,K>的使用体会
 
-这平时的业务开发中，[Action](https://docs.microsoft.com/en-us/dotnet/api/system.action-1?view=netcore-2.2)和[Func](https://docs.microsoft.com/en-us/dotnet/api/system.func-1?view=netcore-2.2)这两个类，他们均有多个版本的重载。
+在平时的业务开发中，[Action](https://docs.microsoft.com/en-us/dotnet/api/system.action-1?view=netcore-2.2)和[Func](https://docs.microsoft.com/en-us/dotnet/api/system.func-1?view=netcore-2.2)这两个类，他们均有多个版本的重载。
 `Action`和`Func`，曾经一直是被动使用的比较多，主动使用的比较少。但近来在框架的开发过程中，逐渐体会到了巧用这两个类，能让api设计的更精简、灵活。
 
 以在设计仓储基类的一个查询接口为例。
