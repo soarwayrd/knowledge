@@ -1,4 +1,4 @@
-陈善治: [分享MarkDown语法](陈善治/index.md)
+陈善治: [Action、Func的使用感受 / .Net命名空间心得](陈善治/index.md)
 
 陈槿：[分享一则新闻](陈槿/news.md)
 
