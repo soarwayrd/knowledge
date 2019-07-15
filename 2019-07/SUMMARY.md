@@ -7,3 +7,5 @@
 周海辉：[JS嵌套对象访问模式](周海辉/index.md)
 
 吴传荣：[附件上传以及Jenkins相关要点](吴传荣/index.md)
+
+黄业炜：[net core 部署在IIS](黄业炜/index.md)
