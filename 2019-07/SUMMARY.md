@@ -9,3 +9,4 @@
 吴传荣：[附件上传以及Jenkins相关要点](吴传荣/index.md)
 
 黄业炜：[net core 部署在IIS](黄业炜/index.md)
+丘建苗：[postman中脚本使用总结](丘建苗/index.md)
