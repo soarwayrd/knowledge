@@ -5,3 +5,5 @@
 吴传荣: [.net core下的静态文件](吴传荣/index.md)
 
 黄业炜: [使用RazorLight生成HTML内容](黄业炜/index.md)
+
+周海辉: [在不改变angular默认脏检测机制下，手动优化脏检测](周海辉/index.md)
