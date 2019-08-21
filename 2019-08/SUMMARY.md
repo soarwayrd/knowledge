@@ -3,3 +3,5 @@
 陈善治: [Gitbook、Ef Core的小坑](陈善治/index.md)
 
 吴传荣: [.net core下的静态文件](吴传荣/index.md)
+
+黄业炜: [使用RazorLight生成HTML内容](黄业炜/index.md)
