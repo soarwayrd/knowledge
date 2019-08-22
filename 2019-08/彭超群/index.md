@@ -11,7 +11,7 @@ github：https://github.com/isaacs/rimraf
 [在线演示](https://vincentgarreau.com/particles.js/)
 
 用法
-```
+```typescript
 // Import ParticlesModule
 import { ParticlesModule } from 'angular-particle';
 
@@ -28,11 +28,11 @@ import { ParticlesModule } from 'angular-particle';
 })
 export class AppModule { }
 ```
-```
+```typescript
 <particles class="particles" [params]="myParams" [style]="myStyle" [width]="width" [height]="height"></particles>
 ```
 
-```
+``` typescript
 this.myStyle = {
       'position': 'fixed',
       'width': '100%',
@@ -161,7 +161,7 @@ this.myStyle = {
 
 ### 三、foreach用throw 中断
 return无法跳出forEach
-```
+```typescript
  array.forEach(e => {
     if (condition) {
       return;
@@ -170,7 +170,7 @@ return无法跳出forEach
 ```
 
 但是可以抛出一个throw来控制
-```
+```typescript
 try { 
   array.forEach(e => {
     if (condition) {
