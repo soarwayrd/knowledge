@@ -2,6 +2,15 @@
 
 vscode 插件市场搜索 ASCIIDecorator
 
+输入点英文字母，然后选中它，然后按下ctrl+shift+p，
+搜索ASCLL
+![搜索ASCLL](ascll.png/) 
+然后
+
+上面的的是Default Font生成的，
+控制台的是Font Test生成的
+![搜索ASCLL](ascll-2.png/) 
+
 
 ### 二、chalk - 一个npm package
 
