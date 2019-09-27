@@ -7,3 +7,5 @@
 丘建苗：[9月收集的一些bug](丘建苗/index.md)
 
 黄业炜：[Aspose.Words生成PDF](黄业炜/index.md)
+
+林晓旭：[[如何设计数据可视化页面](林晓旭/index.md)
