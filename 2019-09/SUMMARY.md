@@ -5,3 +5,5 @@
 陈仕贵: [Kettle下实现Excel数据导入至数据库](陈仕贵/index.md)
 
 丘建苗：[9月收集的一些bug](丘建苗/index.md)
+
+黄业炜：[Aspose.Words生成PDF](黄业炜/index.md)
