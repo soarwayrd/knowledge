@@ -7,8 +7,8 @@
 | 应用所有的迁移(使迁移文件应用到数据库)            | dotnet ef database update              |  update-database |
 | 指定版本进行迁移          | dotnet ef database update migrationName              |  update-database migrationName |
 | 生成对应版本的脚本         | dotnet ef migrations script              |  Script-Migration |
-| 查看迁移列表           | dotnet ef migrations list              |  add-migration migrationName |
-| 查看数据库上下文信息           | dotnet ef dbcontext info              |  add-migration migrationName |
+| 查看迁移列表           | dotnet ef migrations list              |   |
+| 查看数据库上下文信息           | dotnet ef dbcontext info              |   |
 
 > PMC
 
@@ -74,7 +74,7 @@ NSSM的官网是：https://nssm.cc/ ，十分简陋，但程序功能可是非�
 
 ![avatar](nssm_com.png/)  
 
-#### 3.3. 使用NSSM实现以Windows服务方式运行.NETCore程序
+#### 3.3. 使用NSSM实现以Windows服务方式运行.NET Core程序
 
 **1.下载NSSM**  
 
