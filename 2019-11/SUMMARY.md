@@ -7,3 +7,5 @@
 陈善治：[在EfCore下使用全局过滤器](陈善治/index.md)
 
 周海辉：[11月份知识总结](周海辉/index.md)
+
+黄业炜：[SQL Server 2012特性分页与Swagger功能](黄业炜/index.md)
